@@ -1,5 +1,3 @@
-
-<!D
 <html lang="en">
 <head>
 	
